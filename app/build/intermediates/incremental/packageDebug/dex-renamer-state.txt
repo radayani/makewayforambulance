@@ -1,0 +1,7 @@
+#Mon Apr 10 20:52:41 IST 2017
+base.0=C\:\\Users\\radayani\\AndroidStudioProjects\\EmergencyMakeWayMap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7916f9dc706ccaa01ecc003fbb17b4cd3fa31dab
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\radayani\\AndroidStudioProjects\\EmergencyMakeWayMap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e0b3af4244cb69af9ce9f01f42dbc23e1c55a5fc\\classes.dex
+base.1=C\:\\Users\\radayani\\AndroidStudioProjects\\EmergencyMakeWayMap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e0b3af4244cb69af9ce9f01f42dbc23e1c55a5fc
+file.0=C\:\\Users\\radayani\\AndroidStudioProjects\\EmergencyMakeWayMap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7916f9dc706ccaa01ecc003fbb17b4cd3fa31dab\\classes.dex
