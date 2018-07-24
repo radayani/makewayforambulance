@@ -31,6 +31,7 @@ public class RetrieveSignalsInfo extends AsyncTask<SignalEntity, String, List<Si
         this.activity = activity;
     }
 
+    
     //Define the connection-string with your values.
     public static final String storageConnectionString=
             "DefaultEndpointsProtocol=https;AccountName=emergencydatastorage;AccountKey=************";
