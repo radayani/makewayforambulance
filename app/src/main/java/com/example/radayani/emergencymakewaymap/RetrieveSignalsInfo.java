@@ -33,7 +33,7 @@ public class RetrieveSignalsInfo extends AsyncTask<SignalEntity, String, List<Si
 
     //Define the connection-string with your values.
     public static final String storageConnectionString=
-            "DefaultEndpointsProtocol=https;AccountName=emergencydatastorage;AccountKey=xukjboxSnTWnaGa3+QeZP6t7812uRQ/px8tumYxu3wXlPeSYbo9ZdoL82NbLpr+M7n6oo/Q0BO29X9/VoNpRyQ==;EndpointSuffix=core.windows.net";
+            "DefaultEndpointsProtocol=https;AccountName=emergencydatastorage;AccountKey=************";
 
     @Override
     protected List<SignalEntity> doInBackground(SignalEntity... signalEntity) {
